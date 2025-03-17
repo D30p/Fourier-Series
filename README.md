@@ -6,4 +6,4 @@ The code is separated into two version
 Version 1 is for general problem solving
 Version 2 is for odd and even problem solving
 
-Have a nice day
+Have a nice day (to anyone that find this repository, please don't delete/change the file here)
